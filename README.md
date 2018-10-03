@@ -15,3 +15,5 @@ This is a web application developed in Python and Django that receives an image 
 This project was an assignment for a Digital Image Processing subject.
 
 Backend is written entirely on Python 3 and Django, frontend uses Bootstrap and some Javascript/JQuery.
+
+Image processing is based on Python Imaging Library and NumPy, and the algorithms applied (Meanshift, Bayesian classifier, etc...) are based on the paper Detection of multiple salient objects through the integration of estimated foreground clues (https://www.sciencedirect.com/science/article/pii/S0262885616301238)
